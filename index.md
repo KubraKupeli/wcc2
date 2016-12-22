@@ -35,3 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<p class="uk-text-small">
+<strong>München Zentrum</strong><br /><span id=”id1”>Tel.: 089 - 23 23 27 77</span><br />
+<strong>München Pasing</strong><br /><span id=”id2”>Tel.: 089 - 88 99 83 0</span></p>
